@@ -1,5 +1,8 @@
+.env
+
 # macOS thingy
 .DS_Store
+
 # JetBrains
 .idea
 
