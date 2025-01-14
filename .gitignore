@@ -1,2 +1,20 @@
 # macOS thingy
 .DS_Store
+# JetBrains
+.idea
+
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Output directories
+bin/
+tmp/
+
+# Go specific
+*.test
+*.out
+go.work
