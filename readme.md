@@ -2,4 +2,4 @@
 
 ### Stack
 
-`Echo` `sqlx` `go-migrate`
+`chi` `pgx`
